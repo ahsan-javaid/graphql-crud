@@ -8,5 +8,4 @@
 
 Visit: http://localhost:3000
 
-![Demo View](https://github.com/[ahsan-javaid]/[graphql-crud]/blob/[master]/graphql-demo.png?raw=true)
-
+![Demo View](https://github.com/ahsan-javaid/graphql-crud/blob/master/graphql-demo.png?raw=true)
