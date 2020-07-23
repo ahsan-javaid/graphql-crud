@@ -60,7 +60,7 @@ const AddBook = (props) => {
                 {displayAuthors()}
             </select>
         </div>
-        <button type="submit">Save</button>
+        <button type="submit">+</button>
     </form>)
 }
 
